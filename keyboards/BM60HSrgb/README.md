@@ -6,6 +6,12 @@ This repo is to provide ESC/~ (kc_gesc) in your keymap for BM60.
 I use KBFirmware JSON to QMK Parser to create local files with a few edit
 https://noroadsleft.github.io/kbf_qmk_converter/
 
+This keymap behave
+
+- ESC key ---> ESC
+- Shift + ESC ---> ~
+- Left Alt + ESC ---> Toggle IME (Alt+`)
+
 
 Reference
 ---------------------------------------------------------------------------------
