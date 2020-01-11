@@ -1,4 +1,4 @@
-<h1>BM60HDrgb</h1>
+<h1>BM60HSrgb</h1>
 You don't need to use this unless you need "kc_gesc" or other advabced keycode.
 
 This repo is to provide ESC/~ (kc_gesc) in your keymap.
